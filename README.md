@@ -31,4 +31,4 @@ $ nodemon
 ```
 
 
-You're all set to run Note App API on your machine. You will see notes on the main page. You can delete these, and create your own either in the JSON file (then reseeding your database with node seeds.js) or using any front end framework. Have fun with it... 
+You're all set! 
