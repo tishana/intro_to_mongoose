@@ -1,15 +1,14 @@
 Intro to Mongoose
 
-## Technologies Used for Note App API:
+## Technologies Used for Intro_to_Mongoose:
 
 * Node.js
-* Express.js
 * Mongoose and MongoDB
-* Heroku (in the past)
+
 
 
 --------------------------------------------
-## How to Install Note App API locally:
+## How to Install Intro_to_Mongoose locally:
 
 * Fork and clone this repository to your machine
 * Change into the new directory
